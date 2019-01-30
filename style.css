@@ -1,0 +1,27 @@
+div {
+	height: 50px; 
+	width: 50px;
+	border-radius: 50%;
+	position: absolute;
+	text-align: center;
+}
+
+#canvas {
+	position: relative;
+	width: 800px;
+	height: 600px;
+	border: 2px solid black;
+}
+
+input {
+	margin: 10px 0;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
